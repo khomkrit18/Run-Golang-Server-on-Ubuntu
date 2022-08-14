@@ -47,3 +47,5 @@ func main() {
 
 
 7.เช็ค IP แล้วทดลองเข้าจาก windows
+
+on Youtube https://youtu.be/s2Cw4db1_FU
